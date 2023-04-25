@@ -43,14 +43,14 @@ The Evaluation Metrics is MAP@20
 
 Our code is modified and adapted on these great repositories:
 
--[PyTorch Metric learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
--[[2003.13911\] Proxy Anchor Loss for Deep Metric Learning (arxiv.org)](https://arxiv.org/abs/2003.13911)
+- [PyTorch Metric learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
+- [[2003.13911\] Proxy Anchor Loss for Deep Metric Learning (arxiv.org)](https://arxiv.org/abs/2003.13911)
 
 ## Citation
 
 If you use this method or this code in your research, please cite as:
 
-@article{WANG2022108961,
+    @article{
     title = {Deep Hash Remote-Sensing Image Retrieval Assisted by Semantic Cues},
     journal = {Remote Sensing},
     volume = {14},
