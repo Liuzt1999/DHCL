@@ -19,8 +19,8 @@ A standard hash code structure which integrate the classification results into t
 
 ## Datasets
 Download public benchmarks
--UCMD([Link](http://weegee.vision.ucmerced.edu/datasets/landuse.html))
--AID([Link](https://pan.baidu.com/s/1mifOBv6#list/path=%2F))
+- UCMD([Link](http://weegee.vision.ucmerced.edu/datasets/landuse.html))
+- AID([Link](https://pan.baidu.com/s/1mifOBv6#list/path=%2F))
 
 ## Result
 
@@ -43,8 +43,8 @@ The Evaluation Metrics is MAP@20
 
 Our code is modified and adapted on these great repositories:
 
--[PyTorch Metric learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
--[[2003.13911\] Proxy Anchor Loss for Deep Metric Learning (arxiv.org)](https://arxiv.org/abs/2003.13911)
+- [PyTorch Metric learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
+- [[2003.13911\] Proxy Anchor Loss for Deep Metric Learning (arxiv.org)](https://arxiv.org/abs/2003.13911)
 
 ## Citation
 
